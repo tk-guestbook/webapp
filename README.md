@@ -1,3 +1,19 @@
+# Guest Book
+
+## Motivation
+
+To build a simple project with React, Redux, and Typescript.
+
+## Screenshots
+
+![main screenshot](screenshot.png)
+
+## License
+
+MIT
+
+# Create React App
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
